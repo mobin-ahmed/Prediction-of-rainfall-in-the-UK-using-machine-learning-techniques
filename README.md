@@ -1,6 +1,6 @@
 # Prediction-of-rainfall-in-the-UK-using-machine-learning-techniques
 This is my MSc dissertation at University of Essex, UK.
-In this dissertation project I have used python, machine learning, deep learning, measuring techniques of how well the models have been performed.
+In this dissertation project I have used python, machine learning, deep learning, statistical methods, measuring techniques of how well the models have been performed.\\
 Workflow:
 1. Data preprocessing and cleaning
 2. Feature engineering
